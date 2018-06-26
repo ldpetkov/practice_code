@@ -1,0 +1,16 @@
+# Ignore RubyMine file #
+########################
+
+/.idea/*
+*.swp
+*.swo
+
+# Ignore screenshots #
+######################
+
+screenshots/
+
+# Ignore report.html #
+#######################
+
+*.html

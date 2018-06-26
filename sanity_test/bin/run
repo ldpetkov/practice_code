@@ -1,0 +1,12 @@
+#!/bin/bash
+# Shell script to run parallel cucumbers with environment
+
+if [ $# -eq 0 ]; then
+  echo "No environment supplied"
+  exit 1
+fi
+
+options=${@:2}
+echo "Testing $1 with $options"
+
+TARGET_ENV=$1 bundle exec cucumber -p default $options

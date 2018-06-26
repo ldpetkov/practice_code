@@ -1,0 +1,3 @@
+# config/cucumber.yml
+---
+default: features --tags ~@wip

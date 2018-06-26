@@ -1,0 +1,386 @@
+    1  python -v
+    2  ruby -v
+    3  java -v
+    4  javac -v
+    5  cd  ~/projects/sanity_test
+    6  bin/run prod "features/fast_sanity.feature --tags ~@wip --format html --out results.html --format pretty
+    7  python get-pip.py
+    8  python DonutScraper.py 
+    9  pip --version
+   10  pip install requests
+   11  ./pip install requests
+   12  ls
+   13  ls
+   14  pwd
+   15  mkdir Projects
+   16  cd Projects/
+   17  git clone git@git.sumdog.com:/git/sanity_test.git
+   18  ssh-keygen.exe
+   19  ruby
+   20  ruby
+   21  ruby
+   22  ruby dk.rb init
+   23  less config.yml 
+   24  ruby dk.rb install
+   25  cd ~
+   26  ls
+   27  cd Projects/
+   28  ls
+   29  git clone git@git.sumdog.com:/git/sanity_test.git
+   30  git clone git@git.sumdog.com:/git/sanity_test.git
+   31  git clone git@git.sumdog.com:/git/sanity_test.git
+   32  git clone git@git.sumdog.com:/git/sanity_test.git
+   33  git clone git@git.sumdog.com:/git/sanity_test.git
+   34  git clone git@git.sumdog.com:/git/sanity_test.git
+   35  git clone git@git.sumdog.com:/git/sanity_test.git
+   36  git clone git@git.sumdog.com:/git/sanity_test.git
+   37  git clone git@git.sumdog.com:/git/sanity_test.git
+   38  ls
+   39  cd sanity_test/
+   40  ls
+   41  less Gemfile
+   42  bundle install
+   43  gem install bundler
+   44  bundle install
+   45  bundle install
+   46  git status
+   47  ls
+   48  bin/run prod "features/fast_sanity.feature --tags ~@wip --format html --out results.html --format pretty
+   49  "
+   50  ls
+   51  bundle install
+   52  echo $ENV
+   53  echo $env
+   54  printenv
+   55  cd sanity_test/
+   56  bundle install
+   57  gem install bundler
+   58  bundle install
+   59  bin/run prod "features/fast_sanity.feature --tags ~@wip --format html --out results.html --format pretty"
+   60  ls
+   61  less Gemfile
+   62  grep -r sikuli.jar .
+   63  grep -r rukuli .
+   64  vi features/support/env.rb
+   65  bin/run prod "features/fast_sanity.feature --tags ~@wip --format html --out results.html --format pretty"
+   66  grep -r Rukuli .
+   67  grep -r Rukuli:: . | less
+   68  less features/support/env.rb
+   69  vi features/support/env.rb
+   70  bin/run prod "features/fast_sanity.feature --tags ~@wip --format html --out results.html --format pretty"
+   71  bin/run prod "features/fast_sanity.feature --tags ~@wip --format html --out results.html --format pretty"
+   72  vi features/support/env.rb
+   73  vi Gemfile
+   74  git status
+   75  git add Gemfile
+   76  git add features/support/env.rb
+   77  git commit -m "Commented out rukuli as we are not using it"
+   78  git config --global user.email "qa@sumdog.com"
+   79  git config --global user.name "QA"
+   80  git push
+   81  git commit -m "Commented out rukuli as we are not using it. --Linas"
+   82  git push
+   83  cd Projects/
+   84  ls
+   85  cd ..
+   86  cd Projects/
+   87  lls
+   88  ls
+   89  cd sanity_test/
+   90  ls
+   91  cd features/
+   92  ls
+   93  less adding_students.feature 
+   94  cd ..
+   95  ls
+   96  cd bin
+   97  ls
+   98  cd ..
+   99  ls
+  100  cd config/
+  101  ls
+  102  cd ..
+  103  ls
+  104  cd spec/
+  105  ls
+  106  less spec_helper.rb 
+  107  cd ..
+  108  ls
+  109  cd features/
+  110  ls
+  111  cd step_definitions/
+  112  ls
+  113  less adding_students_steps.rb 
+  114  less signin_steps.rb 
+  115  less fast_sanity.rb 
+  116  cd ..
+  117  ls
+  118  cd support/
+  119  ls
+  120  cd world
+  121  ls
+  122  less adding_students_world.rb 
+  123  less example_questions_world.rb 
+  124  cd ~/Desktop/
+  125  ls
+  126  ruby generate_classes.rb 20 10
+  127  rb generate_classes.rb 20 10
+  128  jruby
+  129  jruby generate_classes.rb 20 10
+  130  jruby generate_classes.rb 20 10
+  131  ruby generate_classes.rb 10 100
+  132  jruby generate_classes.rb 10 100
+  133  cd ..
+  134  ls
+  135  cd Projects/
+  136  ls
+  137  bin/run prod "features/fast_sanity.feature --tags ~@wip --format html --out results.html --format pretty"
+  138  cd sanity_test/
+  139  bin/run prod "features/fast_sanity.feature --tags ~@wip --format html --out results.html --format pretty"
+  140  bin/run prod "features/fast_sanity.feature --tags ~@wip --format html --out results.html --format pretty"
+  141  git pull
+  142  cd ~/Projects/sanity_test/
+  143  ls
+  144  git diff
+  145  cd ..
+  146  ls
+  147  cd Projects/
+  148  git status
+  149  ls
+  150  cd sanity_test/
+  151  git status
+  152  git pull
+  153  jruby generate_classes.rb 10 20
+  154  cd ~/Projects/sanity_test/
+  155  ls
+  156  bin/run test-1 "features/fast_sanity.feature --tags ~@wip --format html --out results.html --format pretty"
+  157  bin/run test-1 "features/fast_sanity.feature --tags ~@wip --format html --out results.html --format pretty"
+  158  cd ~/Projects/sanity_test/
+  159  bin/run prod "features/fast_sanity.feature --tags ~@wip --format html --out results.html --format pretty"
+  160  cd  ~/projects/sanity_test
+  161  cd  ~/projects/sanity_test
+  162  ls
+  163  cd Projects/sanity_test/
+  164  ls
+  165  bin/run test-1 "features/fast_sanity.feature --tags ~@wip --format html --out results.html --format pretty"
+  166  ls
+  167  ~Projects/sanity_test/results.html
+  168  pwd
+  169  open results.html 
+  170  start results.html 
+  171  bin/run test-dp "features/fast_sanity.feature --tags ~@wip --format html --out results.html --format pretty"
+  172  ls
+  173  cd Projects/sanity_test/
+  174  bin/run prod "features/fast_sanity.feature --tags ~@wip --format html --out results.html --format pretty"
+  175  start results.html 
+  176  cd Projects/sanity_test/
+  177  bin/run prod "features/fast_sanity.feature --tags ~@wip --format html --out results.html --format pretty"
+  178  ls
+  179  cd Projects/
+  180  ls
+  181  cd sanity_test/
+  182  ls
+  183  git status
+  184  git log
+  185  clear
+  186  ls
+  187  bin/run test-1 "features/fast_sanity.feature --tags ~@wip --format html --out results.html --format pretty"
+  188  bin/run test-1 "features/fast_sanity.feature --tags ~@wip --format html --out results.html --format pretty"
+  189  less features/support/world/signin_world.rb 
+  190  less features/support/world/signin_world.rb 
+  191  cd Projects/sanity_test/
+  192  bin/run prod "features/fast_sanity.feature --tags ~@wip --format html --out results.html --format pretty"
+  193  clear
+  194  bin/run prod "features/fast_sanity.feature --tags ~@wip --format html --out results.html --format pretty"
+  195  ls
+  196  cd Projects/sanity_test/
+  197  git status
+  198  git pull
+  199  bin/run prod "features/fast_sanity.feature --tags ~@wip --format html --out results.html --format pretty"
+  200  bin/run prod "features/fast_sanity.feature:64 --tags ~@wip --format html --out results.html --format pretty"
+  201  bin/run prod "features/fast_sanity.feature:82 --tags ~@wip --format html --out results.html --format pretty"
+  202  bin/run prod "features/fast_sanity.feature:97 --tags ~@wip --format html --out results.html --format pretty"
+  203  cd Projects/sanity_test/
+  204  git status
+  205  git pull
+  206  clear
+  207  bin/run test-1 "features/fast_sanity.feature --tags ~@wip --format html --out results.html --format pretty"
+  208  clear
+  209  bin/run test-1 "features/fast_sanity.feature --tags ~@wip --format html --out results.html --format pretty"
+  210  bin/run test-2 "features/fast_sanity.feature --tags ~@wip --format html --out results.html --format pretty"
+  211  bin/run test-2 "features/fast_sanity.feature:42 --tags ~@wip --format html --out results.html --format pretty"
+  212  ls
+  213  vim features/support/env.rb
+  214  grep -r "maximize" .
+  215  vim features/support/world/sessions_world.rb 
+  216  clear
+  217  bin/run test-2 "features/fast_sanity.feature --tags ~@wip --format html --out results.html --format pretty"
+  218  bin/run test-2 "features/fast_sanity.feature --tags ~@wip --format html --out results.html --format pretty"
+  219  bin/run test-2 "features/fast_sanity.feature:64 --tags ~@wip --format html --out results.html --format pretty"
+  220  bin/run test-2 "features/fast_sanity.feature:72 --tags ~@wip --format html --out results.html --format pretty"
+  221  cd Projects/sanity_test/
+  222  bin/run prod "features/fast_sanity.feature --tags ~@wip --format html --out results.html --format pretty"
+  223  clear
+  224  bin/run prod "features/fast_sanity.feature --tags ~@wip --format html --out results.html --format pretty"
+  225  cd ~/Projects/sanity_test/
+  226  bin/run prod "features/fast_sanity.feature --tags ~@wip --format html --out results.html --format pretty"
+  227  git diff
+  228  git pull
+  229  git diff
+  230  ls
+  231  cd Projects/sanity_test/
+  232  bin/run prod "features/fast_sanity.feature --tags ~@wip --format html --out results.html --format pretty"
+  233  ./bin/run prod "features/fast_sanity.feature --tags ~@wip --format html --out results.html --format pretty"
+  234  cd Projects/sanity_test/
+  235  ./bin/run test-kv "features/fast_sanity.feature --tags ~@wip --format html --out results.html --format pretty"
+  236  cd Projects/sanity_test/
+  237  ./bin/run test-2 "features/fast_sanity.feature --tags ~@wip --format html --out results.html --format pretty"
+  238  cd Projects/sanity_test/
+  239  ./bin/run test-2 "features/fast_sanity.feature --tags ~@wip --format html --out results.html --format pretty"
+  240  cd Projects/sanity_test/
+  241  ./bin/run prod "features/fast_sanity.feature --tags ~@wip --format html --out results.html --format pretty"
+  242  cd Projects/sanity_test/
+  243  ./bin/run prod "features/fast_sanity.feature --tags ~@wip --format html --out results.html --format pretty"
+  244  ./bin/run prod "features/fast_sanity.feature --tags ~@wip --format html --out results.html --format pretty"
+  245  cd Projects/sanity_test/
+  246  ./bin/run prod "features/fast_sanity.feature --tags ~@wip --format html --out results.html --format pretty"
+  247  cd Projects/sanity_test/
+  248  ls
+  249  git status
+  250  git diff features/support/world/sessions_world.rb
+  251  git log
+  252  clear
+  253  ./bin/run prod "features/fast_sanity.feature --tags ~@wip --format html --out results.html --format pretty"
+  254  ./bin/run prod "features/fast_sanity.feature:42 --tags ~@wip --format html --out results.html --format pretty"
+  255  ./bin/run prod "features/fast_sanity.feature:42 --tags ~@wip --format html --out results.html --format pretty"
+  256  ./bin/run prod "features/fast_sanity.feature:64 --tags ~@wip --format html --out results.html --format pretty"
+  257  ./bin/run prod "features/fast_sanity.feature:77 --tags ~@wip --format html --out results.html --format pretty"
+  258  ./bin/run prod "features/fast_sanity.feature:82 --tags ~@wip --format html --out results.html --format pretty"
+  259  ./bin/run prod "features/fast_sanity.feature:97 --tags ~@wip --format html --out results.html --format pretty"
+  260  ./bin/run prod "features/fast_sanity.feature:42 --tags ~@wip --format html --out results.html --format pretty"
+  261  cd Projects/sanity_test/
+  262  ./bin/run prod "features/fast_sanity.feature --tags ~@wip --format html --out results.html --format pretty"
+  263  ./bin/run prod "features/fast_sanity.feature:31 --tags ~@wip --format html --out results.html --format pretty"
+  264  ./bin/run prod "features/fast_sanity.feature:97 --tags ~@wip --format html --out results.html --format pretty"
+  265  cd Projects/sanity_test/
+  266  vim features/fast_sanity.feature 
+  267  ./bin/run prod "features/fast_sanity.feature:15 --tags ~@wip --format html --out results.html --format pretty"
+  268  vim features/fast_sanity.feature 
+  269  vim features/fast_sanity.feature 
+  270  cd Projects/sanity_test/
+  271  ./bin/run prod "features/fast_sanity.feature:15 --tags ~@wip --format html --out results.html --format pretty"
+  272  cd Projects/sanity_test/
+  273  ./bin/run prod "features --tags ~@wip --format html --out results.html --format pretty"
+  274  ./bin/run prod "features/fast_sainty.feature --tags ~@wip --format html --out results.html --format pretty --guess"
+  275  ./bin/run prod "features/fast_sanity.feature --tags ~@wip --format html --out results.html --format pretty --guess"
+  276  cd Projects/sanity_test/
+  277  ./bin/run prod "features/fast_sanity.feature --tags ~@wip --format html --out results.html --format pretty --guess"
+  278  cd ~/Projects/sanity_test/
+  279  git status
+  280  git diff
+  281  grep ./* coins
+  282  cd '/c/Users/QA Eng/Desktop/aFST copy/sanity_test'
+  283  ./bin/run prod "features/fast_sanity.feature --tags ~@wip --format html --out results.html --format pretty --guess"
+  284  ./bin/run prod "features/fast_sanity.feature --tags ~@wip --format html --out results.html --format pretty --guess"
+  285  ./bin/run prod "features/fast_sanity.feature --tags ~@wip --format html --out results.html --format pretty --guess"
+  286  ./bin/run prod "features/fast_sanity.feature --tags ~@wip --format html --out results.html --format pretty --guess"
+  287  ./bin/run prod "features/fast_sanity.feature --tags ~@wip --format html --out results.html --format pretty --guess"
+  288  ./bin/run prod "features/fast_sanity.feature --tags ~@wip --format html --out results.html --format pretty --guess"
+  289  ./bin/run prod "features/fast_sanity.feature --tags ~@wip --format html --out results.html --format pretty --guess"
+  290  ./bin/run prod "features/fast_sanity.feature --tags ~@wip --format html --out results.html --format pretty --guess"
+  291  ./bin/run prod "features/fast_sanity.feature --tags ~@wip --format html --out results.html --format pretty --guess"
+  292  ./bin/run prod "features/fast_sanity.feature --tags ~@wip --format html --out results.html --format pretty --guess"
+  293  ./bin/run prod "features/fast_sanity.feature --tags ~@wip --format html --out results.html --format pretty --guess"
+  294  ./bin/run prod "features/fast_sanity.feature --tags ~@wip --format html --out results.html --format pretty --guess"
+  295  ./bin/run prod "features/fast_sanity.feature --tags ~@wip --format html --out results.html --format pretty --guess"
+  296  ./bin/run prod "features/fast_sanity.feature --tags ~@wip --format html --out results.html --format pretty --guess"
+  297  ./bin/run prod "features/fast_sanity.feature --tags ~@wip --format html --out results.html --format pretty --guess"
+  298  ./bin/run prod "features/fast_sanity.feature --tags ~@wip --format html --out results.html --format pretty --guess"
+  299  ./bin/run prod "features/fast_sanity.feature --tags ~@wip --format html --out results.html --format pretty --guess"
+  300  ./bin/run prod "features/fast_sanity.feature --tags ~@wip --format html --out results.html --format pretty --guess"
+  301  ./bin/run prod "features/fast_sanity.feature --tags ~@wip --format html --out results.html --format pretty --guess"
+  302  ./bin/run prod "features/fast_sanity.feature --tags ~@wip --format html --out results.html --format pretty --guess"
+  303  ./bin/run prod "features/fast_sanity.feature --tags ~@wip --format html --out results.html --format pretty --guess"
+  304  ./bin/run prod "features/fast_sanity.feature --tags ~@wip --format html --out results.html --format pretty --guess"
+  305  ./bin/run prod "features/fast_sanity.feature --tags ~@wip --format html --out results.html --format pretty --guess"
+  306  ./bin/run prod "features/fast_sanity.feature --tags ~@wip --format html --out results.html --format pretty --guess"
+  307  ./bin/run prod "features/fast_sanity.feature --tags ~@wip --format html --out results.html --format pretty --guess"
+  308  ./bin/run prod "features/fast_sanity.feature --tags ~@wip --format html --out results.html --format pretty --guess"
+  309  ./bin/run prod "features/fast_sanity.feature --tags ~@wip --format html --out results.html --format pretty --guess"
+  310  ./bin/run prod "features/fast_sanity.feature --tags ~@wip --format html --out results.html --format pretty --guess"
+  311  ./bin/run prod "features/fast_sanity.feature --tags ~@wip --format html --out results.html --format pretty --guess"
+  312  ./bin/run prod "features/fast_sanity.feature --tags ~@wip --format html --out results.html --format pretty --guess"
+  313  ./bin/run prod "features/fast_sanity.feature --tags ~@wip --format html --out results.html --format pretty --guess"
+  314  ./bin/run prod "features/fast_sanity.feature --tags ~@wip --format html --out results.html --format pretty --guess"
+  315  ./bin/run prod "features/fast_sanity.feature --tags ~@wip --format html --out results.html --format pretty --guess"
+  316  ./bin/run prod "features/fast_sanity.feature --tags ~@wip --format html --out results.html --format pretty --guess"
+  317  ./bin/run prod "features/fast_sanity.feature --tags ~@wip --format html --out results.html --format pretty --guess"
+  318  ./bin/run prod "features/fast_sanity.feature --tags ~@wip --format html --out results.html --format pretty --guess"
+  319  ./bin/run prod "features/fast_sanity.feature --tags ~@wip --format html --out results.html --format pretty --guess"
+  320  ./bin/run prod "features/fast_sanity.feature --tags ~@wip --format html --out results.html --format pretty --guess"
+  321  ./bin/run prod "features/fast_sanity.feature --tags ~@wip --format html --out results.html --format pretty --guess"
+  322  ./bin/run prod "features/fast_sanity.feature --tags ~@wip --format html --out results.html --format pretty --guess"
+  323  ./bin/run prod "features/fast_sanity.feature --tags ~@wip --format html --out results.html --format pretty --guess"
+  324  ./bin/run prod "features/fast_sanity.feature --tags ~@wip --format html --out results.html --format pretty --guess"
+  325  ./bin/run prod "features/fast_sanity.feature --tags ~@wip --format html --out results.html --format pretty --guess"
+  326  ./bin/run prod "features/fast_sanity.feature --tags ~@wip --format html --out results.html --format pretty --guess"
+  327  ./bin/run prod "features/fast_sanity.feature --tags ~@wip --format html --out results.html --format pretty --guess"
+  328  cd Projects/sanity_test/
+  329  ./bin/run prod "features/fast_sanity.feature --tags ~@wip --format html --out results.html --format pretty --guess"
+  330  cd Projects/sanity_test/
+  331  ./bin/run prod "features/fast_sanity.feature --tags ~@wip --format html --out results.html --format pretty --guess"
+  332  cd Projects/sanity_test/
+  333  ./bin/run prod "features/fast_sanity.feature --tags ~@wip --format html --out results.html --format pretty --guess"
+  334  cd Projects/sanity_test/
+  335  ./bin/run prod "features/fast_sanity.feature --tags ~@wip --format html --out results.html --format pretty --guess"
+  336  ./bin/run prod "features/fast_sanity.feature --tags ~@wip --format html --out results.html --format pretty --guess"
+  337  ./bin/run prod "features/fast_sanity.feature --tags ~@wip --format html --out results.html --format pretty --guess"
+  338  cd Projects/sanity_test/
+  339  ./bin/run test-2 "features/fast_sanity.feature --tags ~@wip --format html --out results.html --format pretty --guess"
+  340  cd Projects/sanity_test/
+  341  ./bin/run test-1 "features/fast_sanity.feature --tags ~@wip --format html --out results.html --format pretty --guess"
+  342  cd Projects/sanity_test/
+  343  ./bin/run test-2 "features/fast_sanity.feature --tags ~@wip --format html --out results.html --format pretty --guess"
+  344  cd Projects/sanity_test/
+  345  ./bin/run prod "features/fast_sanity.feature --tags ~@wip --format html --out results.html --format pretty --guess"
+  346  cd Projects/sanity_test/
+  347  ./bin/run prod "features/fast_sanity.feature --tags ~@wip --format html --out results.html --format pretty --guess"
+  348  cd Projects/sanity_test/
+  349  ./bin/run prod "features/fast_sanity.feature --tags ~@wip --format html --out results.html --format pretty --guess"
+  350  cd Projects/sanity_test/
+  351  ./bin/run prod "features/fast_sanity.feature --tags ~@wip --format html --out results.html --format pretty --guess"
+  352  cd Projects/sanity_test/
+  353  ./bin/run prod "features/fast_sanity.feature --tags ~@wip --format html --out results.html --format pretty --guess"
+  354  cd Projects/sanity_test/
+  355  ./bin/run prod "features/fast_sanity.feature --tags ~@wip --format html --out results.html --format pretty --guess"
+  356  cd ~/Projects/sanity_test/
+  357  ./bin/run test-2 "features/fast_sanity.feature --tags ~@wip --format html --out results.html --format pretty --guess"
+  358  ./bin/run test-2 "features/fast_sanity.feature --tags ~@wip --format html --out results.html --format pretty --guess"
+  359  cd ~/Projects/sanity_test/
+  360  ./bin/run test-2 "features/fast_sanity.feature --tags ~@wip --format html --out results.html --format pretty --guess"
+  361  cd Projects/sanity_test/
+  362  git status
+  363  git remote -v
+  364  ./bin/run prod "features/fast_sanity.feature --tags ~@wip --format html --out results.html --format pretty --guess"
+  365  cd Projects/
+  366  ls
+  367  cd sanity_test/
+  368  ls
+  369  git remote -v
+  370  history | less
+  371  ls
+  372  pwd
+  373  history | less
+  374   ./bin/run prod "features/fast_sanity.feature --tags ~@wip --format html --out results.html --format pretty --guess"
+  375  ls
+  376  notepad++ .
+  377  notepad++
+  378  pwd
+  379  history | less
+  380  open C:\Users\QA Eng\Projects\sanity_test
+  381  oexplorerC:\Users\QA Eng\Projects\sanity_test
+  382  explorer .
+  383  ls
+  384  git pull
+  385  git branch
+  386  history > bach_history_copy

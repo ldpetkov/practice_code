@@ -1,0 +1,30 @@
+Encoding:
+  Enabled: false
+
+LineLength:
+  Max: 100
+
+StringLiterals:
+  Enabled: false
+
+AllCops:
+  Exclude:
+    - tmp/**
+  RunRailsCops: false
+
+AccessModifierIndentation:
+  EnforcedStyle: outdent
+
+AlignHash:
+  EnforcedHashRocketStyle: table
+  EnforcedColonStyle:      table
+
+DotPosition:
+  EnforcedStyle: trailing
+
+Documentation:
+  Enabled: false
+
+EmptyLinesAroundBody:
+  Enabled: false
+
